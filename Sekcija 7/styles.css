@@ -1,0 +1,20 @@
+body{
+    background-image: url("https://raw.githubusercontent.com/academind/100-days-of-web-development/07-html-css-layouts-position/extra-files/ocean.jpg");
+    background-position: center;
+    background-size:cover;
+}
+#hero{
+    height:800px;
+    
+}
+.menu-btn{
+    width: 10px;
+    height: 10px;
+    display: flex;
+}
+.menu-btn span{
+    display: block;
+    width: 100%;
+    height: 3px;
+    background-color: black;
+}
